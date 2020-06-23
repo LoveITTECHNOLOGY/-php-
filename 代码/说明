@@ -1,0 +1,60 @@
+运行环境phpstorm 8.0.3
+
+
+
+需要填写激活码为:
+
+用户名：Learn Programming
+
+License key:(包括LICENSE BEGIN和LICENSE END部分）
+
+===== LICENSE BEGIN =====
+63758-12042010
+00000Ryqh0NCC73lpRm!XVcxFChJ2g
+TUR2lZtlLXrPLbQ66Gs8MHs51RvF2y
+agoDlzne08Zm8VXbts1UMKE!EW4v8G
+===== LICENSE END =====
+
+phpstorm 8 注册码 (8.x版均可使用)
+用户名：phpstorm
+License key:(包括LICENSE BEGIN和LICENSE END部分）
+===== LICENSE BEGIN =====
+6725-D39174T
+00001EGrm4YAkUrAU55!G!Hn6rxmrB
+IJaF!QmYRFIEj1mDcWOo7Dexc3DKnJ
+Jz0tmmYthiQYQelIKAw9hho0VimbcN
+===== LICENSE END =====
+ 
+
+用户名 : hezi
+===== LICENSE BEGIN =====
+2657-D71964T
+00001SUMTlGBfg5Q6DFP8HIgHKl5oV
+FPptgh1m5N10ZsnXAeBBNUMLnNeKOj
+hlDohNtTLaZw1QIdzsPD2jNg1zuWuI
+===== LICENSE END =====
+
+
+
+
+
+< centos7安装phpstorm8.0.4 >
+
+前提：JDK安装成功以后才能安装phpstorm
+官网下载http://download.jetbrains.com/webide/PhpStorm-8.0.4.tar.gz
+解压到指定的目录
+#tar -zxvf PhpStorm-7.1.tar.gz -C /phpstorm   (这里我直接解压到根目录)
+#cd /phpstorm/bin
+#./phpstorm.sh  
+运行软件 根据提示输入相应license。
+
+用户名：Learn Programming
+
+License key:(包括LICENSE BEGIN和LICENSE END部分）
+
+===== LICENSE BEGIN =====
+63758-12042010
+00000Ryqh0NCC73lpRm!XVcxFChJ2g
+TUR2lZtlLXrPLbQ66Gs8MHs51RvF2y
+agoDlzne08Zm8VXbts1UMKE!EW4v8G
+===== LICENSE END =====
